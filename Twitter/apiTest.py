@@ -1,3 +1,6 @@
+# ---------- TWITTER API INTERACTION CODE --------------
+# Written by Tumi Lengoasa during UHack 2017
+
 from twitter import *
 import json
 
